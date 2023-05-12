@@ -50,7 +50,7 @@ H5端：https://h5xin.meishikf.club
 
 #### 下载地址
 
-> 联系：@cooccooc
+> [https://www.icucoo.xyz/archives/xingj.html](https://www.icucoo.xyz/archives/xingj.html)
 
 
   [1]: https://cdn.zenless.top/gh/UsdtTokenApi/codepic/2023/05/04/1683180926.png
