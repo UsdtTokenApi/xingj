@@ -1,4 +1,4 @@
-# xingj
+# xingj 信管家
 【独家免费数据】全新UI信管家源码/通达信配资/博易大师/外汇模拟/MT4外汇/交易
 ```
 PC端：https://pcxin.meishikf.club
