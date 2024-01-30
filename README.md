@@ -1,12 +1,17 @@
 # xingj 信管家
 【独家免费数据】全新UI信管家源码/通达信配资/博易大师/外汇模拟/MT4外汇/交易
 ```
-PC端：https://pcxin.meishikf.club
-H5端：https://h5xin.meishikf.club
+PC端：https://xin.icucoo.xyz/pc
+
+H5端：https://xin.icucoo.xyz/h5
+
 账号：12345678 密码：12345678
-后台：https://xin.meishikf.club/backend/
+
+后台：https://xin.icucoo.xyz/backend/
+
 账号：admin 密码：plokij123（演示站密码不可修改）
 ```
+
 
 更多详细信息可联系客服
 
