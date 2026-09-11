@@ -1,68 +1,75 @@
-# xingj 信管家
-【独家免费数据】全新UI信管家源码/通达信配资/博易大师/外汇模拟/MT4外汇/交易
-```
-PC端：https://xin.icucoo.xyz/pc
+### 🌐 演示与登录信息
 
-H5端：https://xin.icucoo.xyz/h5
-
-账号：12345678 密码：12345678
-
-后台：https://xin.icucoo.xyz/backend/
-
-账号：admin 密码：plokij123（演示站密码不可修改）
-```
+* **H5端：** `https://xin8.icoinapi.cc`
+  * **账号：** demo
+  * **密码：** 123123
+* **后台：** `https://xv8.icoinapi.cc/admins.php`
+  * **账号：** admin
+  * **密码：** 123123
+* **客服 TG：** @cooccooc
+  > 更多详细信息可[联系客服](https://t.me/cooccooc)。
 
 
-更多详细信息可联系客服
+---
 
-**客服TG:[@cooccooc](https://t.me/cooccooc)**
+### 💰 套餐价格
+
+* **默认套餐：** 后台源码 + 前端编译后源码（可直接用） **￥8,999**
+* **套餐二：** 后台源码 + 前端开源源码 Vue（无需 uniapp 账号） **￥14,999**
+* **套餐三：** 旧版 YII2 源码 + vue2 全开源（单独要演示） **￥5,499**
+
+---
+
+### ⚙️ 系统核心特性与环境要求
+
+#### 🌟 核心亮点
+1. **全新液态玻璃 UI**，支持暗黑模式（双主题）。
+2. **多语言**可任意扩展，自动采集新闻资讯。
+3. **多级代理管理**，更多功能可自行体验。
+4. **独家免费数据源！支持多数据源混合采集！** 且持续更新，免去每月高昂数据费用。
+5. 可完美运行，支持封装为 **APK（安卓）** 和 **iOS 包**。
+
+#### 💻 技术栈
+* ThinkPHP 框架 + Vue3（非 Uniapp） + Workerman 框架
+
+#### 📋 环境要求
+* **操作系统：** Linux
+* **PHP 版本：** PHP 8.0
+* **数据库：** Mysql 5.7 或 8.0（推荐）
+* **缓存：** Redis 5.0+
+
+---
+### 演示图
+
+![2026-09-11T07:35:16.png][1]
+![2026-09-11T07:36:36.png][2]
+![2026-09-11T07:36:44.png][3]
+![2026-09-11T07:36:49.png][4]
+![2026-09-11T07:36:56.png][5]
+![2026-09-11T07:37:02.png][6]
+![2026-09-11T07:37:08.png][7]
+![2026-09-11T07:37:18.png][8]
+![2026-09-11T07:37:24.png][9]
+![2026-09-11T07:37:31.png][10]
+![2026-09-11T07:37:38.png][11]
 
 
+---
 
-#### 前后端所有源码全开源！！前后端所有源码全开源！！前后端所有源码全开源！！
+### ⚠️ 购买与比价须知
 
-#### 全新UI，中英双语言！持续更新！
-
-### 首发新增免费数据源！免去每月高昂数据费用！有需要可联系客服单独对接！
-
-*最终效果以演示站为准*
-
-- 更换新版K线展示，新增空心蜡烛图
-
-- 产品全新YII2框架开发，前端VUE，前后端全新优化
-
-- 可完美运行，可封装apk、IOS包和电脑端EXE
-
-- 包含完整的搭建安装教程文档、数据对接文档、打包APP/PC 端文档，图文并茂十分详细，有简单基础即可全程自行搭建，保姆级教程！！
-
-> 项目环境要求：Linux，PHP7.2+，Mysql5.6+，Redis
+* **关于退货：** 源码具有可复制性，**一经发货概不支持退货**。源码与演示站完全相同，请耐心多测试。
+* **关于比价：** 本源码为**全开源**。请勿拿【从本处流出的旧版本】或市面上部分开源的商家来比价。旧版本和不开源的此处可以做到价格更低，但没有意义。最终效果一切以演示站为准。
 
 
-
-源码具有可复制性，一经发货改不支持退货，源码与演示站完全相同，请耐心多测试下 
-
-![2023-05-04T06:15:25.png][1]
-![2023-05-04T06:15:39.png][2]
-![2023-05-04T06:16:15.png][3]
-![2023-05-04T06:16:27.png][4]
-![2023-05-04T06:16:40.png][5]
-![2023-05-04T06:17:18.png][6]
-![2023-05-04T06:17:35.png][7]
-![2023-05-04T06:17:46.png][8]
-
-源码全开源，请勿拿部分开源的商家来比价
-
-
-#### 下载地址
-
-> [https://www.icucoo.xyz/archives/xingj.html](https://www.icucoo.xyz/archives/xingj.html)
-
-
-  [1]: https://cdn.zenless.top/gh/UsdtTokenApi/codepic/2023/05/04/1683180926.png
-  [2]: https://cdn.zenless.top/gh/UsdtTokenApi/codepic/2023/05/04/1683180940.png
-  [3]: https://cdn.zenless.top/gh/UsdtTokenApi/codepic/2023/05/04/1683180977.png
-  [4]: https://cdn.zenless.top/gh/UsdtTokenApi/codepic/2023/05/04/1683180989.png
-  [5]: https://cdn.zenless.top/gh/UsdtTokenApi/codepic/2023/05/04/1683181000.png
-  [6]: https://cdn.zenless.top/gh/UsdtTokenApi/codepic/2023/05/04/1683181039.png
-  [7]: https://cdn.zenless.top/gh/UsdtTokenApi/codepic/2023/05/04/1683181055.png
-  [8]: https://cdn.zenless.top/gh/UsdtTokenApi/codepic/2023/05/04/1683181066.png
+  [1]: https://raw.githubusercontent.com/UsdtTokenApi/codepic/master/2026/09/11/1789112120_3a98de.png
+  [2]: https://raw.githubusercontent.com/UsdtTokenApi/codepic/master/2026/09/11/1789112199_a22329.png
+  [3]: https://raw.githubusercontent.com/UsdtTokenApi/codepic/master/2026/09/11/1789112207_242122.png
+  [4]: https://raw.githubusercontent.com/UsdtTokenApi/codepic/master/2026/09/11/1789112213_bac61a.png
+  [5]: https://raw.githubusercontent.com/UsdtTokenApi/codepic/master/2026/09/11/1789112219_5d4410.png
+  [6]: https://raw.githubusercontent.com/UsdtTokenApi/codepic/master/2026/09/11/1789112225_b7f46b.png
+  [7]: https://raw.githubusercontent.com/UsdtTokenApi/codepic/master/2026/09/11/1789112232_2ece8b.png
+  [8]: https://raw.githubusercontent.com/UsdtTokenApi/codepic/master/2026/09/11/1789112241_55def6.png
+  [9]: https://raw.githubusercontent.com/UsdtTokenApi/codepic/master/2026/09/11/1789112247_1719e3.png
+  [10]: https://raw.githubusercontent.com/UsdtTokenApi/codepic/master/2026/09/11/1789112255_f4133a.png
+  [11]: https://raw.githubusercontent.com/UsdtTokenApi/codepic/master/2026/09/11/1789112263_eaf0f9.png
